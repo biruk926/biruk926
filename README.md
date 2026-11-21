@@ -108,6 +108,7 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 
 ---
 
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -115,8 +116,12 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 <a href="https://github.com/biruk926">
   <img src="https://img.shields.io/badge/GitHub-biruk926-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<!-- Add your LinkedIn, portfolio, and public contact email when ready. -->
+<a href="https://www.linkedin.com/in/biruk-werku-cs/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/Hanunb">
+  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
 <br/><br/>
 
@@ -125,3 +130,5 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 **Developed by Obito** 🖤💛
 
 </div>
+
+
