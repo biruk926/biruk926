@@ -26,6 +26,7 @@
 
 ---
 
+<a name="about-me"></a>
 ## 👋 About Me
 
 I'm a Computer Science student at **Harambee University** in Ethiopia, interested in building useful, modern web applications.
@@ -38,6 +39,7 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 
 ---
 
+<a name="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -68,6 +70,7 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 
 ---
 
+<a name="featured-projects"></a>
 ## 🚀 Featured Projects
 
 | Project | Description |
@@ -109,6 +112,7 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 ---
 
 
+<a name="connect-with-me"></a>
 ## 🤝 Connect With Me
 
 <div align="center">
