@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="assets/obito-banner.png" alt="OBITO Creative Developer — Build / Design / Create" width="100%" />
@@ -6,17 +7,20 @@
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=E5B83D&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences;Turning+Ideas+Into+Reality;Creating+Modern+Web+Applications;Learning.+Building.+Innovating."
-  alt="Building Digital Experiences — Turning Ideas Into Reality — Creating Modern Web Applications — Learning. Building. Innovating."
+  alt="Building Digital Experiences"
 />
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/biruk926">
-  <img src="https://img.shields.io/badge/GitHub-biruk926-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://github.com/biruk926?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-C99A28?style=for-the-badge&logo=github&logoColor=111111" alt="Explore repositories"/>
-</a>
+<a href="#about-me">ABOUT</a>
+&nbsp; <span>◆</span> &nbsp;
+<a href="#featured-projects">PROJECTS</a>
+&nbsp; <span>◆</span> &nbsp;
+<a href="#tech-stack">TECH STACK</a>
+&nbsp; <span>◆</span> &nbsp;
+<a href="#connect-with-me">CONTACT</a>
+
+<br/><br/>
 
 </div>
 
@@ -37,6 +41,7 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -44,6 +49,7 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 </p>
 
 ### Backend & Database
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -51,6 +57,7 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 </p>
 
 ### Tools
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -97,7 +104,7 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 - Full-stack application development
 - Database design and management
 - API development and integration
-- Building better, more accessible user interfaces
+- cybersecurity
 
 ---
 
