@@ -114,13 +114,13 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 <div align="center">
 
 <a href="https://github.com/biruk926">
-  <img src="https://img.shields.io/badge/GitHub-biruk926-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/biruk-werku-cs/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://t.me/Hanunb">
-  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
 <br/><br/>
@@ -130,5 +130,4 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 **Developed by Obito** 🖤💛
 
 </div>
-
 
