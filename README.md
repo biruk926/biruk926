@@ -10,19 +10,23 @@
   alt="Building Digital Experiences"
 />
 
-<br/><br/>
+</div>
 
-<a href="#about-me">ABOUT</a>
-&nbsp; <span>◆</span> &nbsp;
-<a href="#featured-projects">PROJECTS</a>
-&nbsp; <span>◆</span> &nbsp;
-<a href="#tech-stack">TECH STACK</a>
-&nbsp; <span>◆</span> &nbsp;
-<a href="#connect-with-me">CONTACT</a>
 
-<br/><br/>
+<div align="center">
+
+<br/>
+
+<h2>OBITO</h2>
+
+<p><strong>CREATIVE DEVELOPER</strong></p>
+
+<p>BUILDING DIGITAL EXPERIENCES · ETHIOPIA</p>
+
+<br/>
 
 </div>
+
 
 ---
 
@@ -135,5 +139,3 @@ I'm a Computer Science student at **Harambee University** in Ethiopia, intereste
 
 </div>
 
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
